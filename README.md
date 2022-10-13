@@ -4,15 +4,6 @@ some text
 A
 A
 hello
-
-
-
-
-
-
-
-
-
 ## local development
 
-1. Open index.html in your local browser.
+Open index.html in your local browser.
