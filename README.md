@@ -1,10 +1,10 @@
-#demo 2
+# demo 2
 
 some text
 A
 A
 hello
 
-## local development
+## new feature
 
-1. Open index.html in your local browser.
+1. new feature added
