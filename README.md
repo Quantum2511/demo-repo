@@ -4,7 +4,6 @@ some text
 A
 A
 hello
-
 ## new feature
 
 1. new feature added
